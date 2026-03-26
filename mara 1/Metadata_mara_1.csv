@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,SM-S931B,1772734439356,2026-03-05_18-13-59,Europe/Amsterdam,android,1.54.1,ec041b51-addc-49d9-b4e7-2e3149b40a27,Annotation|Watch Orientation|Watch Accelerometer|Watch Gravity|Watch Gyroscope|Watch TotalAcceleration,|10|10|10|10|10,false,36
