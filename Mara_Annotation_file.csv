@@ -1,0 +1,13 @@
+Date,Start_time,end_time,label
+5 March 2026,19:16:00,19:18:00 AM,vacuuming_rested
+2 March 2026,13:53:00,13:55:19,brushing_teeth_rested
+2 March 2026,13:57:00,13:59:00,brushing_hair_rested
+2 March 2026,14:00:00,14:02:00,doing_nothing_rested
+2 March 2026,14:04:30,14:06:00,stabbing_overhead_rested
+2 March 2026,14:08:00,14:09:30,stabbing_forward_rested
+2 March 2026,14:13:00,14:15:00,vacuuming_elevated
+2 March 2026,14:16:30,14:18:30,brushing_teeth_elevated
+2 March 2026,14:19:30,14:21:30,brushing_hair_elevated
+2 March 2026,14:22:30,14:24:30,doing_nothing_elevated
+2 March 2026,14:26:00,14:27:30,stabbing_overhead_elevated
+2 March 2026,14:29:00,14:30:30,stabbing_forward_elevated

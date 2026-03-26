@@ -1,0 +1,13 @@
+Date,start_time,end_time,label,Column 1
+3 March 2026,20:27:00,20:29:00,vacuuming_rested,
+3 March 2026,20:30:00,20:32:00,brushing_teeth_rested,
+3 March 2026,20:33:00,20:35:00,brushing_hair_rested,
+3 March 2026,20:36:00,20:38:00,doing_nothing_rested,
+3 March 2026,20:39:00,20:40:30,stabbing_overhead_rested, 
+3 March 2026,20:41:30,20:43:00,stabbing_forward_rested,
+3 March 2026,20:45:00,20:47:00,vacuuming_elevated,
+3 March 2026,20:49:00,20:51:00,brushing_teeth_elevated,
+3 March 2026,20:53:00,20:55:00,brushing_hair_elevated,
+3 March 2026,20:56:00,20:58:00,doing_nothing_elevated,
+5 March 2026,20:42:00,20:43:30,stabbing_overhead_elevated,
+5 March 2026,20:45:00,20:46:30,stabbing_forward_elevated,
