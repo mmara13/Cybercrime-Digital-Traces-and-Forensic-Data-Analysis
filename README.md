@@ -8,7 +8,7 @@
 
 This repository contains all data, annotation files, and code for our project. We collected smartwatch sensor data from three participants performing five activities -- stabbing, vacuuming, brushing teeth, brushing hair, and doing nothing -- and trained three machine learning models to distinguish the stabbing motion from the everyday activities.
 
-The full paper can be found [here](Detecting Stabbing Motions Using Smartwatch Sensor Data.pdf)
+The full paper can be found [here](/Detecting Stabbing Motions Using Smartwatch Sensor Data.pdf)
 
 ---
 
